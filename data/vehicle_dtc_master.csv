@@ -1,0 +1,25 @@
+brand,model,years,code,category,meaning_ar,meaning_en,common_cause,fix,notes
+Toyota,Corolla,2014-2026,P0100,P,خلل في مستشعر تدفق الهواء,MAF sensor fault,Dirty or failed MAF sensor,Replace MAF sensor,Very common
+Toyota,Corolla,2014-2026,P0171,P,خليط رقيق,Lean fuel condition,Vacuum leak or weak fuel supply,Check intake leaks and fuel pressure,Very common
+Toyota,Corolla,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency below threshold,Converter worn or O2 sensor issue,Replace catalytic converter if needed,Very common
+Toyota,Corolla,2014-2026,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition issue,Inspect coils and plugs,Very common
+Toyota,RAV4,2014-2026,P0100,P,خلل في مستشعر تدفق الهواء,MAF sensor fault,Dirty sensor,Replace MAF sensor,Common
+Toyota,RAV4,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency below threshold,Converter worn,Check O2 sensor and converter,Common
+Nissan,Altima,2014-2026,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition issue,Check coils and plugs,Very common
+Nissan,Altima,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency below threshold,Converter deteriorated,Inspect O2 sensor and converter,Common
+Nissan,Sentra,2014-2026,P0100,P,خلل في مستشعر تدفق الهواء,MAF fault,Dirty sensor,Replace sensor,Common
+Nissan,Sentra,2014-2026,P0171,P,خليط رقيق,Lean condition,Vacuum leak,Repair intake leaks,Common
+Hyundai,Elantra,2014-2026,P0171,P,خليط رقيق,Lean condition,Air leak or weak fuel pressure,Check intake and fuel pressure,Common
+Hyundai,Elantra,2014-2026,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition fault,Inspect plugs and coils,Common
+Hyundai,Sonata,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst below threshold,Converter worn,Check O2 sensors,Common
+BMW,3 Series,2014-2026,P0171,P,خليط رقيق,Lean condition,Vacuum leak or fuel issue,Inspect intake and fuel system,Common
+BMW,3 Series,2014-2026,C1201,C,خلل ABS/DSC,ABS performance fault,Wheel sensor or ABS module,Diagnose ABS network,Common
+BMW,5 Series,2014-2026,U0100,U,فقدان اتصال ECU,Lost communication,CAN bus issue,Inspect CAN bus wiring,Common
+Mercedes,C-Class,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency low,Converter worn,Check catalyst and O2 sensors,Common
+Mercedes,C-Class,2014-2026,C1201,C,خلل ABS/ESP,ABS performance issue,Sensor or control module,Inspect wheel sensors,Common
+Ford,F-150,2014-2026,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition or fuel issue,Check spark plugs/coils,Common
+Ford,F-150,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency low,Converter issue,Diagnose catalyst and O2 sensors,Common
+Ford,Focus,2014-2026,P0171,P,خليط رقيق,Lean condition,Vacuum leak,Inspect intake,Common
+Volkswagen,Golf,2014-2026,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition issue,Check ignition components,Common
+Volkswagen,Jetta,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency low,Converter worn,Check O2 sensors and catalyst,Common
+Volkswagen,Tiguan,2014-2026,C1201,C,خلل ABS/ESP,ABS fault,Wheel sensor or module fault,Inspect ABS network,Common

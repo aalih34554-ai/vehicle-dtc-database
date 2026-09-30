@@ -1,0 +1,29 @@
+brand,code,category,meaning_ar,meaning_en,common_cause,fix,years
+Toyota,P0100,P,خلل في مستشعر تدفق الهواء,MAF sensor fault,Dirty or failed MAF sensor,Replace MAF sensor,2014-2026
+Toyota,P0171,P,خليط رقيق,Lean fuel condition,Vacuum leak or weak fuel supply,Check intake leaks and fuel pressure,2014-2026
+Toyota,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency below threshold,Converter worn or O2 sensor issue,Replace catalytic converter if needed,2014-2026
+Toyota,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition issue,Inspect coils and plugs,2014-2026
+Toyota,C1201,C,خلل ABS,ABS fault,Wheel sensor or ABS module,Diagnose ABS network,2014-2026
+Nissan,P0100,P,خلل في مستشعر تدفق الهواء,MAF sensor fault,Dirty sensor,Replace MAF sensor,2014-2026
+Nissan,P0171,P,خليط رقيق,Lean condition,Vacuum leak or fuel delivery issue,Inspect intake and fuel system,2014-2026
+Nissan,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency below threshold,Converter deteriorated,Check O2 sensors and catalyst,2014-2026
+Nissan,P0720,P,مستشعر سرعة ناقل الحركة,Output speed sensor fault,Failed sensor,Replace sensor,2014-2026
+Nissan,C1201,C,خلل ABS,ABS fault,Wheel sensor issue,Inspect ABS sensors,2014-2026
+Hyundai,P0171,P,خليط رقيق,Lean condition,Air leak or weak fuel pressure,Check intake and fuel pressure,2014-2026
+Hyundai,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition issue,Inspect plugs and coils,2014-2026
+Hyundai,P0420,P,كاتاليتيك غير فعال,Catalyst below threshold,Converter worn,Check O2 sensors and converter,2014-2026
+Hyundai,C0040,C,مستشعر ABS أمامي,Front ABS sensor fault,Sensor wiring or sensor issue,Replace ABS sensor,2014-2026
+BMW,P0171,P,خليط رقيق,Lean condition,Vacuum leak or fuel issue,Inspect intake and fuel system,2014-2026
+BMW,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition problem,Inspect ignition components,2014-2026
+BMW,C1201,C,خلل ABS/DSC,ABS performance fault,Wheel sensor or ABS module,Diagnose ABS network,2014-2026
+BMW,U0100,U,فقدان اتصال ECU,Lost communication with ECM,CAN bus / module issue,Inspect CAN bus wiring,2014-2026
+Mercedes,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency low,Converter worn,Check O2 sensors and catalyst,2014-2026
+Mercedes,C1201,C,خلل ABS/ESP,ABS performance issue,Sensor or control module,Inspect wheel sensors,2014-2026
+Mercedes,U0100,U,فقدان اتصال ECU,Lost communication,Bus issue,Check CAN network,2014-2026
+Ford,P0171,P,خليط رقيق,Lean condition,Vacuum leak,Inspect intake,2014-2026
+Ford,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition or fuel issue,Check ignition components,2014-2026
+Ford,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency low,Converter issue,Diagnose catalyst and O2 sensors,2014-2026
+Volkswagen,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition issue,Check ignition components,2014-2026
+Volkswagen,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency low,Converter worn,Check O2 sensors and catalyst,2014-2026
+Volkswagen,C1201,C,خلل ABS/ESP,ABS fault,Wheel sensor or module fault,Inspect ABS network,2014-2026
+Volkswagen,U0100,U,فقدان اتصال ECU,Lost communication with ECM,CAN issue,Inspect network,2014-2026

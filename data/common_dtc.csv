@@ -1,0 +1,56 @@
+brand,model,years,code,category,meaning_ar,meaning_en,common_cause,fix,notes
+Common,Generic,2014-2026,P0100,P,خلل في مستشعر تدفق الهواء,MAF sensor fault,MAF sensor contamination or failure,Replace or clean MAF sensor,Common across many makes
+Common,Generic,2014-2026,P0101,P,مستشعر تدفق الهواء خارج النطاق,MAF sensor out of range,Air leak or failed sensor,Check intake for leaks and verify MAF signal,Common across many makes
+Common,Generic,2014-2026,P0117,P,مستشعر حرارة سائل التبريد منخفض جدًا,ECT sensor low voltage,Sensor short or incorrect reading,Test sensor circuit and replace if needed,Common across many makes
+Common,Generic,2014-2026,P0118,P,مستشعر حرارة سائل التبريد عالي جدًا,ECT sensor high voltage,Sensor open circuit or overheating,Check wiring and replace sensor,Common across many makes
+Common,Generic,2014-2026,P0128,P,منظم الحرارة منخفض عند التشغيل,Coolant thermostat below temp,Thermostat stuck open,Replace thermostat,Common in many engines
+Common,Generic,2014-2026,P0171,P,خليط رقيق جدًا (Lean),System too lean,Vacuum leak or weak fuel delivery,Inspect intake leaks and fuel pressure,Very common
+Common,Generic,2014-2026,P0172,P,خليط غني جدًا (Rich),System too rich,High fuel pressure or leaking injector,Check fuel pressure and injector operation,Very common
+Common,Generic,2014-2026,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition issue or fuel issue,Check spark plugs, coils, injectors,Common across many makes
+Common,Generic,2014-2026,P0301,P,احتراق ضعيف في الأسطوانة 1,Cylinder 1 misfire,Weak ignition or injector issue,Inspect spark plug and coil for cylinder 1,Common
+Common,Generic,2014-2026,P0302,P,احتراق ضعيف في الأسطوانة 2,Cylinder 2 misfire,Weak ignition or injector issue,Inspect spark plug and coil for cylinder 2,Common
+Common,Generic,2014-2026,P0303,P,احتراق ضعيف في الأسطوانة 3,Cylinder 3 misfire,Weak ignition or injector issue,Inspect spark plug and coil for cylinder 3,Common
+Common,Generic,2014-2026,P0304,P,احتراق ضعيف في الأسطوانة 4,Cylinder 4 misfire,Weak ignition or injector issue,Inspect spark plug and coil for cylinder 4,Common
+Common,Generic,2014-2026,P0335,P,مستشعر عمود الكرنك غير طبيعي,Crankshaft sensor fault,Failed sensor or wiring issue,Replace crank sensor and inspect harness,Common
+Common,Generic,2014-2026,P0340,P,مستشعر عمود الكامشافت غير طبيعي,Camshaft sensor fault,Sensor failure or timing issue,Replace sensor and check timing,Common
+Common,Generic,2014-2026,P0401,P,تدفق غاز العادم منخفض,EGR flow insufficient,EGR valve or passage blocked,Inspect/clean or replace EGR,Common
+Common,Generic,2014-2026,P0420,P,مُحوّل العادم غير فعال,Catalyst efficiency below threshold,Catalyst deteriorated or O2 sensor issue,Check O2 sensor and replace converter if needed,Very common
+Common,Generic,2014-2026,P0442,P,تسرب صغير في نظام EVAP,Evap leak small,Loose cap or hose leak,Inspect EVAP system and replace faulty component,Common
+Common,Generic,2014-2026,P0455,P,تسرب كبير في نظام EVAP,Evap leak large,Large leak or damaged hose,Check EVAP lines and fuel system,Common
+Common,Generic,2014-2026,P0500,P,خلل في سرعة السيارة,Vehicle speed sensor fault,Failed VSS or wiring,Replace sensor and inspect circuit,Common
+Common,Generic,2014-2026,P0562,P,جهد البطارية منخفض,Battery voltage low,Weak battery or electrical issue,Test battery/charging system,Common
+Common,Generic,2014-2026,P0600,P,خطأ في ناقل البيانات,Serial communication error,Network issue or ECU fault,Inspect CAN/LIN wiring and modules,Common
+Common,Generic,2014-2026,P0606,P,خلل في وحدة ECU,ECU internal fault,Control module failure,Reprogram or replace ECU,Advanced diagnosis
+Common,Generic,2014-2026,P0700,P,خطأ في ناقل الحركة,Transmission control system fault,Transmission or TCM issue,Check transmission fluid and scan TCM codes,Common
+Common,Generic,2014-2026,P0715,P,مستشعر سرعة ناقل الحركة,Input speed sensor fault,Failed sensor or wiring,Replace sensor,Common
+Common,Generic,2014-2026,P0720,P,مستشعر سرعة الخروج,Output speed sensor fault,Failed sensor or wiring,Replace sensor,Common
+Common,Generic,2014-2026,P0741,P,عطل في نظام ناقل الحركة,Torque converter clutch performance,Low fluid or internal wear,Check fluid and perform transmission diagnosis,Common in automatics
+Common,Generic,2014-2026,C0035,C,مستشعر عجلة الفرامل أو ABS,Wheel speed sensor fault,Failed ABS sensor,Replace wheel speed sensor,Common
+Common,Generic,2014-2026,C1201,C,خلل ABS/الفرامل,ABS performance issue,ABS module or sensor fault,Inspect ABS network and wheel sensors,Common
+Common,Generic,2014-2026,U0100,U,فقدان الاتصال ECU الأساسي,Lost communication with ECM,CAN bus or module issue,Inspect CAN network and module grounds,Common
+Common,Generic,2014-2026,U0121,U,فقدان الاتصال بنظام ABS,Lost communication with ABS control module,ABS module or bus fault,Check CAN bus and brake control module,Common
+Common,Generic,2014-2026,B1000,B,خلل في وحدة الجسم,Body control module fault,BCM issue or power supply problem,Inspect power and BCM grounds,Common
+Toyota,Corolla,2014-2026,P0100,P,خلل في مستشعر تدفق الهواء,MAF fault,Dirty or failed MAF sensor,Replace MAF sensor,Common on Corolla
+Toyota,Corolla,2014-2026,P0171,P,خليط رقيق,Lean fuel condition,Vacuum leak or weak fuel supply,Check intake leaks and fuel pressure,Common on Corolla
+Toyota,Corolla,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency below threshold,Converter worn or O2 sensor issue,Replace catalytic converter if needed,Common on Corolla
+Toyota,Corolla,2014-2026,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition issue,Inspect coils and plugs,Common on Corolla
+Toyota,RAV4,2014-2026,P0100,P,خلل في مستشعر تدفق الهواء,MAF fault,Dirty sensor,Replace MAF sensor,Common on RAV4
+Toyota,RAV4,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency below threshold,Converter worn,Check O2 sensor and converter,Common on RAV4
+Nissan,Altima,2014-2026,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition issue,Check coils and plugs,Common on Altima
+Nissan,Altima,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency below threshold,Converter deteriorated,Inspect O2 sensor and converter,Common on Altima
+Nissan,Sentra,2014-2026,P0100,P,خلل في مستشعر تدفق الهواء,MAF fault,Dirty sensor,Replace sensor,Common on Sentra
+Nissan,Sentra,2014-2026,P0171,P,خليط رقيق,Lean condition,Vacuum leak,Repair intake leaks,Common on Sentra
+Hyundai,Elantra,2014-2026,P0171,P,خليط رقيق,Lean condition,Air leak or weak fuel pressure,Check intake and fuel pressure,Common on Elantra
+Hyundai,Elantra,2014-2026,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition fault,Inspect plugs and coils,Common on Elantra
+Hyundai,Sonata,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst below threshold,Converter worn,Check O2 sensors,Common on Sonata
+BMW,3 Series,2014-2026,P0171,P,خليط رقيق,Lean condition,Vacuum leak or fuel issue,Inspect intake and fuel system,Common on 3 Series
+BMW,3 Series,2014-2026,C1201,C,خلل ABS/DSC,ABS performance fault,Wheel sensor or ABS module,Diagnose ABS network,Common on BMW
+BMW,5 Series,2014-2026,U0100,U,فقدان اتصال ECU,Lost communication,CAN bus issue,Inspect CAN bus wiring,Common on 5 Series
+Mercedes,C-Class,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency low,Converter worn,Check catalyst and O2 sensors,Common on C-Class
+Mercedes,C-Class,2014-2026,C1201,C,خلل ABS/ESP,ABS performance issue,Sensor or control module,Inspect wheel sensors,Common on C-Class
+Ford,F-150,2014-2026,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition or fuel issue,Check spark plugs/coils,Common on F-150
+Ford,F-150,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency low,Converter issue,Diagnose catalyst and O2 sensors,Common on F-150
+Ford,Focus,2014-2026,P0171,P,خليط رقيق,Lean condition,Vacuum leak,Inspect intake,Common on Focus
+Volkswagen,Golf,2014-2026,P0300,P,احتراق متعدد غير منتظم,Random misfire,Ignition issue,Check ignition components,Common on Golf
+Volkswagen,Jetta,2014-2026,P0420,P,كاتاليتيك غير فعال,Catalyst efficiency low,Converter worn,Check O2 sensors and catalyst,Common on Jetta
+Volkswagen,Tiguan,2014-2026,C1201,C,خلل ABS/ESP,ABS fault,Wheel sensor or module fault,Inspect ABS network,Common on Tiguan
